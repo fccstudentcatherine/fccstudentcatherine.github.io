@@ -45,7 +45,7 @@ Responsive media queries
 .header {
     background: url('../img/bg-banner03.jpg') no-repeat fixed;
     background-size: cover;
-    min-height: 630px;
+    min-height: 430px;
     position: relative;
 }
 .navbar-default {
@@ -92,7 +92,7 @@ Responsive media queries
 	border-left: 5px solid #BE2525;
 	padding: 15px 40px;
 	color: #fff;
-	margin-top: 170px;
+	margin-top: 200px;
 }
 .banner-text h2, .banner-text p{
 	font-size: 40px;
@@ -403,9 +403,9 @@ Responsive media queries
 ************************************
 ***********************************/
 .header {
-    background: url('../img/bg-banner03.jpg') no-repeat fixed;
+    background: url('../img/about-banner.jpg') no-repeat fixed;
     background-size: cover;
-    min-height: 630px;
+    min-height: 1630px;
     position: relative;
 }
 .navbar-default {
